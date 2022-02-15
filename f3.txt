@@ -1,0 +1,2 @@
+print("this is f3.txt new file created")
+print('next line')
